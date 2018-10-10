@@ -6,5 +6,5 @@ def setUp():
 
 def test_A(setUp):
     print("method A")
-print('hello')
+print('hello world')
 
